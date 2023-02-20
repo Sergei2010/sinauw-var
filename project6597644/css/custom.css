@@ -1,0 +1,10 @@
+a, a:visited {
+-webkit-transition: 0.5s ease;
+transition: 0.5s ease; 
+}
+
+a:hover, a:visited:hover {
+color: #00bfff !important;
+-webkit-transition: 0s ease;
+transition: 0s ease; 
+}
